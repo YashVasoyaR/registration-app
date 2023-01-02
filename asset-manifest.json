@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/studentregistrationapp/static/css/main.c2cab247.css",
+    "main.js": "/studentregistrationapp/static/js/main.ff0b2e10.js",
+    "index.html": "/studentregistrationapp/index.html",
+    "main.c2cab247.css.map": "/studentregistrationapp/static/css/main.c2cab247.css.map",
+    "main.ff0b2e10.js.map": "/studentregistrationapp/static/js/main.ff0b2e10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.ff0b2e10.js"
+  ]
+}
